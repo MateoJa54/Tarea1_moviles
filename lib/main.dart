@@ -28,7 +28,7 @@ class EjerciciosApp extends StatelessWidget {
         '/': (context) => const MenuEjerciciosPage(),
         '/ej11': (context) => const Ejercicio11Page(),
         '/ej12': (context) => const Ejercicio12Page(),
-        // '/ej13': (context) => const Ejercicio13Page(),
+        '/ej13': (context) => const Ejercicio13Page(),
         '/ej14': (context) => const Ejercicio14Page(),
         // '/ej15': (context) => const Ejercicio15Page(),
       },
